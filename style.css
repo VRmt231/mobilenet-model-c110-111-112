@@ -1,0 +1,57 @@
+body{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-color:blue; 
+}
+.header_div{
+    background-color:grey;
+    color:burlywood
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background-color:	#0084d1;
+    padding:10px;
+    margin-top: 15px;
+    border:3px solid yellowgreen
+}
+
+.main_div label{
+    background-color:turquoise;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px white ;
+}
+#camera,#result{
+    border:2px solid white ;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px white;
+}
+.main_div button{
+    width:310px;
+    font-size:15px;
+    box-shadow:5px 5px 18px white;
+    border:1px solid white;    
+}
+.footer_div{
+    margin-bottom:50px;
+}
+.footer_div h4{
+    background: yellowgreen;
+    border-radius:10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px black;
+}
+.footer_div img{
+    width:70px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:gray;
+    bottom:0; 
+    width:100%;
+    background-color: yellow;
+    text-align:center;
+}
